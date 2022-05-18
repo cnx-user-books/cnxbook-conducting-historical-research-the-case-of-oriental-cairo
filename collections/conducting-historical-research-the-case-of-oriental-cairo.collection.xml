@@ -1,0 +1,31 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10291</md:content-id>
+    <md:title>Conducting Historical Research: The Case of "Oriental Cairo"</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>1bb59a39-0bd7-4bc6-a66f-28488fa58786</md:uuid>
+<md:slug>conducting-historical-research-the-case-of-oriental-cairo</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>The Research Project</md:title>
+      <col:content>
+        <col:module document="m12590"/>
+        <col:module document="m12529"/>
+        <col:module document="m12586"/>
+        <col:module document="m12585"/>
+        <col:subcollection>
+          <md:title>Using Library Resources</md:title>
+          <col:content>
+            <col:module document="m12583"/>
+            <col:module document="m12527"/>
+            <col:module document="m12523"/>
+            <col:module document="m12525"/>
+            <col:module document="m12729"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
