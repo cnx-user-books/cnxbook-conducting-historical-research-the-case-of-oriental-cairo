@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="David Getman ,Paula Sanders">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col10291</md:content-id>
     <md:title>Conducting Historical Research: The Case of "Oriental Cairo"</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License</md:license>
     <md:uuid>1bb59a39-0bd7-4bc6-a66f-28488fa58786</md:uuid>
-<md:slug>conducting-historical-research-the-case-of-oriental-cairo</md:slug>
-</metadata>
+    <md:slug>conducting-historical-research-the-case-of-oriental-cairo</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>The Research Project</md:title>
